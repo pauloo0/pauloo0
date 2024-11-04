@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been working as a PHC Developer for 4 years creating software implementations tailored to the specific requirements of ours clients both on the Web and also on the Desktop app, also DB administration.
+I've been working as a PHC Developer for 4+ years creating software implementations tailored to the specific requirements of ours clients both on the Web and also on the Desktop app, also DB administration.
 
 *   🌍  I'm based in Cesar, Oliveira de Azeméis, Portugal
 *   🖥️  See my portfolio at [paulojoliveira.com](http://paulojoliveira.com)
